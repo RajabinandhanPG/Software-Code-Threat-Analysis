@@ -75,3 +75,5 @@ This repository contains a PowerPoint presentation (`Software Code & Threat Anal
    ```bash
    git clone https://github.com/<your-username>/<repository-name>.git
    cd <repository-name>
+##License
+  *This repository is provided under the MIT License. See LICENSE for details.*
